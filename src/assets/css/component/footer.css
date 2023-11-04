@@ -1,0 +1,32 @@
+.footer {
+  background: var(--color-primary);
+  padding: 1.25rem;
+  text-align: center;
+  color: #fff;
+}
+
+.footer button {
+  padding: 0 0.938rem 0 0.938rem;
+  margin-bottom: 0.938rem;
+  display: inline-block;
+  color: #fff;
+  text-decoration: none;
+  background-color: transparent;
+  border: none;
+  font-size: inherit;
+  cursor: pointer;
+}
+
+.footer button:hover {
+  text-decoration: underline;
+}
+
+.footer p {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+@media (max-width: 44rem) {
+  .footer button {
+    display: block;
+  }
+}
