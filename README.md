@@ -52,7 +52,7 @@ You can add and modify components as needed to build your SPA.
 
 ## Demo
 
-You can check out a live demo of this project [here](https://react-single-page-app-without-react-router.netlify.app).
+You can check out a live demo of this project [here](https://react-spa-without-react-router.netlify.app/).
 
 ## Contributing
 
